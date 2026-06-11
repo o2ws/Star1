@@ -418,8 +418,8 @@
         "cat_id": "1780759619",
         "name": "STAR SPORTS 1",
         "image": "https:\/\/i.top4top.io\/p_3809baapp1.jpg",
-        "url": "https:\/\/oneplus-stream.vercel.app\/stream\/23\/index.m3u8",
-        "useragent": "",
+        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=116900&cat=4524",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
         "referer": "",
         "origin": "",
         "drmkey": "",
@@ -427,8 +427,8 @@
         "servers": [
             {
                 "name": "وقت مباريات",
-                "url": "https:\/\/oneplus-stream.vercel.app\/stream\/23\/index.m3u8",
-                "useragent": "",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=116900&cat=4524",
+                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
                 "referer": "",
                 "origin": "",
                 "cookie": "",
