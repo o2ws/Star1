@@ -35,7 +35,7 @@
         "id": 1780153605,
         "cat_id": "1780087414",
         "name": "BEIN SPORTS 2",
-        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=116901&cat=4524",
+        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.php?id=4113&cat=332",
         "image": "https:\/\/k.top4top.io\/p_3715q5plw1.jpg",
         "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
         "referer": "",
@@ -44,8 +44,17 @@
         "cookie": "",
         "servers": [
             {
-                "name": "متعددة",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=116901&cat=4524",
+                "name": "HD",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.php?id=4113&cat=332",
+                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drmkey": ""
+            },
+            {
+                "name": "SD",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=154719&cat=283",
                 "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
                 "referer": "",
                 "origin": "",
