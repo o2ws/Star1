@@ -545,7 +545,7 @@
         "cat_id": "1780761966",
         "name": "MAX 1",
         "image": "https:\/\/k.top4top.io\/p_3796gkpsd1.png",
-        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158558&cat=7225",
+        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158528&cat=7216",
         "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
         "referer": "",
         "origin": "",
@@ -553,17 +553,8 @@
         "cookie": "",
         "servers": [
             {
-                "name": "FHD",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158558&cat=7225",
-                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
-                "referer": "",
-                "origin": "",
-                "cookie": "",
-                "drmkey": ""
-            },
-            {
                 "name": "HD",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158564&cat=7222",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158528&cat=7216",
                 "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
                 "referer": "",
                 "origin": "",
@@ -572,7 +563,16 @@
             },
             {
                 "name": "SD",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158570&cat=7223",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158534&cat=7217",
+                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drmkey": ""
+            },
+            {
+                "name": "LOW",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158540&cat=7218",
                 "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
                 "referer": "",
                 "origin": "",
