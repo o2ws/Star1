@@ -505,7 +505,7 @@
         "cat_id": "1780761966",
         "name": "MAX 2",
         "image": "https:\/\/i.top4top.io\/p_3796sh9oh1.png",
-        "url": "http:\/\/135.125.196.66\/\/s2_bn_max_1_fhd\/index.m3u8",
+        "url": "http:\/\/135.125.196.66\/\/s2_bn_max_2_fhd\/index.m3u8",
         "useragent": "",
         "referer": "https:\/\/x.com",
         "origin": "https:\/\/x.com",
@@ -514,7 +514,7 @@
         "servers": [
             {
                 "name": "FHD",
-                "url": "http:\/\/135.125.196.66\/\/s2_bn_max_1_fhd\/index.m3u8",
+                "url": "http:\/\/135.125.196.66\/\/s2_bn_max_2_fhd\/index.m3u8",
                 "useragent": "",
                 "referer": "https:\/\/x.com",
                 "origin": "https:\/\/x.com",
@@ -523,7 +523,7 @@
             },
             {
                 "name": "HD",
-                "url": "http:\/\/135.125.196.66\/\/s2_bn_max_1_hd\/index.m3u8",
+                "url": "http:\/\/135.125.196.66\/\/s2_bn_max_2_hd\/index.m3u8",
                 "useragent": "",
                 "referer": "",
                 "origin": "",
@@ -532,7 +532,7 @@
             },
             {
                 "name": "SD",
-                "url": "http:\/\/135.125.196.66\/\/s2_bn_max_1_sd\/index.m3u8",
+                "url": "http:\/\/135.125.196.66\/\/s2_bn_max_2_sd\/index.m3u8",
                 "useragent": "",
                 "referer": "",
                 "origin": "",
