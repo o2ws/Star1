@@ -563,7 +563,7 @@
         "cat_id": "1780761966",
         "name": "MAX 1",
         "image": "https:\/\/k.top4top.io\/p_3796gkpsd1.png",
-        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158528&cat=7216",
+        "url": "http:\/\/uruk.optikl.ink\/b1.m3u8",
         "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
         "referer": "",
         "origin": "",
@@ -571,38 +571,11 @@
         "cookie": "",
         "servers": [
             {
-                "name": "HD",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158528&cat=7216",
+                "name": "MULTI",
+                "url": "http:\/\/uruk.optikl.ink\/b1.m3u8",
                 "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
                 "referer": "",
                 "origin": "",
-                "cookie": "",
-                "drmkey": ""
-            },
-            {
-                "name": "SD",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158534&cat=7217",
-                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
-                "referer": "",
-                "origin": "",
-                "cookie": "",
-                "drmkey": ""
-            },
-            {
-                "name": "LOW",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158540&cat=7218",
-                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
-                "referer": "",
-                "origin": "",
-                "cookie": "",
-                "drmkey": ""
-            },
-            {
-                "name": "سيرفر 4",
-                "url": "http:\/\/uruk.optikl.ink\/js\/live\/api.m3u8?action=redirect&channel_id=1779656336&srv=0&ext=.m3u8",
-                "useragent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.36",
-                "referer": "https:\/\/www.pscp.tv\/",
-                "origin": "https:\/\/www.pscp.tv",
                 "cookie": "",
                 "drmkey": ""
             }
