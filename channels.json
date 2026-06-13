@@ -69,6 +69,15 @@
                 "origin": "",
                 "cookie": "",
                 "drmkey": ""
+            },
+            {
+                "name": "سيرفر 3",
+                "url": "cuid=8c9c71934fba483088ee445e9ddad6e0;kdt=7nGtjFJ4TluHEI0tUp8VrDUqR9ojKNdnJRkUqHrK;_ga=GA1.2.830064298.1763906304;dnt=1;guest_id=v1%3A178015337378610103;guest_id_marketing=v1%3A178015337378610103;guest_id_ads=v1%3A178015337378610103;cf_bm=oRr8MCSTRxFinrZV9NL9dYhOXAEA9._TvGepzfujxJQ-1780940201.577014-1.0.1.1-AKC.cR3WTU2LocHa8SzUCJkwkbZn43Lk.BfwXUS_g0tolIjcBlUvKmaSmk7D3k3cDi9MqZGnyY_OlJPC4CSmKzdKyXEhKRAVWP8shrdBiOUF50klBXQoS6BpchkYCIUJ;personalization_id=\"v1_vZkQJYaDUPW0TE6ZIJjGnA==\";gt=2064038922179461389;external_referer=padhuUp37zjgzgv1mFWxJ12Ozwit7owX|0|8e8t2xd8A2w%3D;twid=u%3D1092152557856804866;auth_token=fad9074867758ada64d5b66e09c3909077b10bc9;ct0=d7c3db86272b57bb9904bbd05604f31de1f0608562cbb4f9c2fcb71d1d3d945e16d399cdd62c2310b5c3322d0f3a993da9b94a318bfafca77c9daec94edfa4b611c8b6ecea6c3fd40fedd605f61a5555;studio_account=\"1092152557856804866:_\";lang=en;_gid=GA1.2.1099231629.1780940728",
+                "useragent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drmkey": ""
             }
         ]
     },
