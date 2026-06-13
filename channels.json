@@ -596,6 +596,15 @@
                 "origin": "",
                 "cookie": "",
                 "drmkey": ""
+            },
+            {
+                "name": "سيرفر 4",
+                "url": "http:\/\/uruk.optikl.ink\/js\/live\/api.m3u8?action=redirect&channel_id=1779656336&srv=0&ext=.m3u8",
+                "useragent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.36",
+                "referer": "https:\/\/www.pscp.tv\/",
+                "origin": "https:\/\/www.pscp.tv",
+                "cookie": "",
+                "drmkey": ""
             }
         ]
     },
