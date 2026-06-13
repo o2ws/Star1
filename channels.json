@@ -28,6 +28,15 @@
                 "origin": "https:\/\/x.com",
                 "cookie": "",
                 "drmkey": ""
+            },
+            {
+                "name": "سيرفر 3",
+                "url": "http:\/\/uruk.optikl.ink\/js\/live\/api.php?action=redirect&channel_id=1780854143&srv=0",
+                "useragent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drmkey": ""
             }
         ]
     },
