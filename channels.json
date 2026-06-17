@@ -545,7 +545,7 @@
         "cat_id": "1780761966",
         "name": "MAX 1",
         "image": "https:\/\/k.top4top.io\/p_3796gkpsd1.png",
-        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.php?id=158564&cat=7222",
+        "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158564&cat=7222",
         "useragent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.36",
         "referer": "",
         "origin": "",
@@ -554,7 +554,7 @@
         "servers": [
             {
                 "name": "MULTI",
-                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.php?id=158564&cat=7222",
+                "url": "http:\/\/uruk.optikl.ink\/ostora\/main.m3u8?id=158564&cat=7222",
                 "useragent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/127.0.0.0 Safari\/537.36",
                 "referer": "",
                 "origin": "",
