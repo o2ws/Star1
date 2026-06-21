@@ -904,6 +904,15 @@
                 "origin": "",
                 "cookie": "",
                 "drmkey": ""
+            },
+            {
+                "name": "HD",
+                "url": "http:\/\/uruk.optikl.ink\/js\/live\/api.m3u8?action=redirect&channel_id=1782049851&srv=0&ext=.m3u8",
+                "useragent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drmkey": ""
             }
         ]
     },
