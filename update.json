@@ -1,9 +1,9 @@
 {
-    "enabled": true,
+    "enabled": false,
     "title": "يتوفر تحديث جديد!",
     "message": "",
     "url": "",
     "btn_text": "تحديث الآن",
     "version": "2.0.0",
-    "force": true
+    "force": false
 }
