@@ -886,6 +886,15 @@
                 "origin": "https:\/\/x.com",
                 "cookie": "",
                 "drmkey": ""
+            },
+            {
+                "name": "HD",
+                "url": "http:\/\/uruk.optikl.ink\/js\/live\/api.m3u8?action=redirect&channel_id=1781101456&srv=1&ext=.m3u8",
+                "useragent": "",
+                "referer": "",
+                "origin": "",
+                "cookie": "",
+                "drmkey": ""
             }
         ]
     },
