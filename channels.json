@@ -462,8 +462,8 @@
         "cat_id": "1780761200",
         "name": "ALWAN 5",
         "image": "https:\/\/i.ibb.co\/wNCKNMMH\/alwan-sports.png",
-        "url": "http:\/\/pro.netmos.ovh:7355\/live\/MMTVO89S7DY7CNV7SD\/P7HIDSPCN580WXH90\/181661.ts",
-        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
+        "url": "http:\/\/pro.netmos.ovh:7355\/live\/MMTVO89S7DY7CNV7SD\/P7HIDSPCN580WXH90\/181673.ts",
+        "useragent": "",
         "referer": "",
         "origin": "",
         "drmkey": "",
@@ -471,8 +471,8 @@
         "servers": [
             {
                 "name": "MULTI",
-                "url": "http:\/\/pro.netmos.ovh:7355\/live\/MMTVO89S7DY7CNV7SD\/P7HIDSPCN580WXH90\/181661.ts",
-                "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Safari\/537.36",
+                "url": "http:\/\/pro.netmos.ovh:7355\/live\/MMTVO89S7DY7CNV7SD\/P7HIDSPCN580WXH90\/181673.ts",
+                "useragent": "",
                 "referer": "",
                 "origin": "",
                 "cookie": "",
